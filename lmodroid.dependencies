@@ -1,5 +1,6 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_kernel_xiaomi_sdm660",
     "target_path": "kernel/xiaomi/sdm660"
   }
